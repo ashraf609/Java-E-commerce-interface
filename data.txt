@@ -1,0 +1,35 @@
+############################# VOICI VOS PAYMENT ##########################  
+ 
+ 1,
+XXXX-XXXX-XXXX-XXXX,
+XXX,
+Ashraf Ettaftafi,
+
+2,
+XXXX-XXXX-XXXX-XXXX,
+XXX,
+Ashraf Ettaftafi,
+
+3,
+XXXX-XXXX-XXXX-XXXX,
+XXX,
+Ashraf Ettaftafi,
+
+4,
+XXXX-XXXX-XXXX-XXXX,
+XXX,
+Ashraf Ettaftafi,
+
+5,
+XXXX-XXXX-XXXX-XXXX,
+XXX,
+Ashraf Ettaftafi,
+
+6,
+XXXX-XXXX-XXXX-XXXX,
+XXX,
+Ashraf Ettaftafi,
+
+############################# MERCI POUR VOTRE CONFIANCE ##########################  
+ 
+ 
